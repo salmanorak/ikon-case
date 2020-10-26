@@ -178,7 +178,7 @@ body{
 @media only screen and (min-width : 800px) {
     :root {
         --big-text : 2.5em;
-        --small-text : 1.5em;
+        --small-text : 1.2em;
         --secondary-circle-margin-left-right: 10%;
         --secondary-circle-margin-bottom-top: 10%;
     }
